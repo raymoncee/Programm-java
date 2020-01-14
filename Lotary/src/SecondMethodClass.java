@@ -3,6 +3,8 @@ import java.util.Scanner;
 
 public class SecondMethodClass {
 
+    // Plublic Variable
+
     public int[] lotto;
     public int check;
     public int count;
@@ -10,6 +12,7 @@ public class SecondMethodClass {
     public String answer;
 
 
+// Parament setting
 
     public SecondMethodClass(int[] lotto, int check, int count, boolean look, String answer) {
         this.lotto = lotto;
